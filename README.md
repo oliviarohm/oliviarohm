@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-<!--
 # Olivia Rohm — Data Analyst
 
 **Bio**  
