@@ -5,7 +5,7 @@
 **Bio**  
 Data analyst with expertise in turning complex data into actionable business insights and operational improvements. Built predictive models that enhanced resource planning efficiency, directly improving customer experience and reducing operational costs. Passionate about using Python, data visualization, and analytical problem-solving to drive smart business decisions.
 
-[Resume (PDF)](./Olivia_Rohm_Resume_2025.pdf)
+[Resume (PDF)](http://github.com/oliviarohm/my-portfolio/blob/main/Olivia%20Rohm_Resume_2025.pdf)
 
 ---
 
@@ -21,23 +21,23 @@ Data analyst with expertise in turning complex data into actionable business ins
 ## 🚀 Featured Projects
 - **Taxi Demand Forecasting (Time Series)** — *RMSE: 35 (target ≤ 48)*  
   One-hour-ahead forecast for airport taxi demand to improve driver staffing and reduce wait times.  
-  **Tech:** pandas, scikit-learn, statsmodels, pmdarima → [Notebook](./Taxi_Demand_Forecasting.ipynb)
+  **Tech:** pandas, scikit-learn, statsmodels, pmdarima → [Notebook](https://github.com/oliviarohm/my-portfolio/blob/main/Taxi_Demand_Forecasting.ipynb)
 
 - **Customer Churn Prediction (Classification)**  
   Predicts which customers are at risk of leaving; supports proactive retention strategy.  
-  **Tech:** scikit-learn, feature engineering, ROC-AUC → [Notebook](./Customer_Churn_Prediction_Model.ipynb)
+  **Tech:** scikit-learn, feature engineering, ROC-AUC → [Notebook](https://github.com/oliviarohm/my-portfolio/blob/main/Customer_Churn_Prediction_Model.ipynb))
 
 - **Used Car Price Prediction (Regression)**  
   Pricing model to estimate fair market value and reduce time-to-sale.  
-  **Tech:** scikit-learn, preprocessing pipelines → [Notebook](./used_car_price_prediction_model.ipynb)
+  **Tech:** scikit-learn, preprocessing pipelines → [Notebook](https://github.com/oliviarohm/my-portfolio/blob/main/used_car_price_prediction_model.ipynb)
 
 - **Gold Recovery — ML Optimization (Regression)**  
   Improves process yield by modeling recovery rates across stages.  
-  **Tech:** scikit-learn, metrics analysis → [Notebook](./Predicting_Gold_Recovery_with_Machine_Lear...ipynb)
+  **Tech:** scikit-learn, metrics analysis → [Notebook](https://github.com/oliviarohm/my-portfolio/blob/main/Predicting%20Gold%20Recovery%20with%20Machine%20Learning.ipynb)
 
 - **Video Game Sales Analysis (EDA + Forecasting basics)**  
   Uncovers drivers of sales performance to inform catalog strategy.  
-  **Tech:** pandas, visualization → [Notebook](./Video_Games_Sales_Analysis.ipynb)
+  **Tech:** pandas, visualization → [Notebook](https://github.com/oliviarohm/my-portfolio/blob/main/Video_Games_Sales_Analysis.ipynb)
 
 ---
 
@@ -50,9 +50,8 @@ Data analyst with expertise in turning complex data into actionable business ins
 ---
 
 ## 📫 Get in Touch
-- **LinkedIn:** *add your link here*  
-- **Email:** *add your email here*  
-- **Portfolio site (optional):** *add a link if you have one*
+- **LinkedIn:** [Olivia Rohm](https://www.linkedin.com/in/olivia-rohm/)
+- **Email:** [olivia.rohm@gmail.com(mailto:olivia.rohm@gmail.com) 
+- **Portfolio site:** [My Portfolio](https://github.com/oliviarohm/my-portfolio)
 
 > Open to data analyst roles (full-time/contract). Happy to collaborate on forecasting, experimentation, and analytics projects.
--->
