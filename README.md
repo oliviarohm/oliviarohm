@@ -33,8 +33,7 @@ Data analyst with expertise in turning complex data into actionable business ins
 
 - **Gold Recovery — ML Optimization (Regression)**  
   Improves process yield by modeling recovery rates across stages.  
-  **Tech:** scikit-learn, metrics analysis → [Notebook](https://github.com/oliviarohm/my-portfolio/blob/main/Predicting%20Gold%20Recovery%20with%20Machine%20Learning.ipynb)
-
+  **Tech:** scikit-learn, metrics analysis → [Notebook](https://github.com/oliviarohm/my-portfolio/blob/main/Predicting_Gold_Recovery_with_Machine_Learning.ipynb)
 - **Video Game Sales Analysis (EDA + Forecasting basics)**  
   Uncovers drivers of sales performance to inform catalog strategy.  
   **Tech:** pandas, visualization → [Notebook](https://github.com/oliviarohm/my-portfolio/blob/main/Video_Games_Sales_Analysis.ipynb)
