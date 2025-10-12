@@ -51,6 +51,6 @@ Data analyst with expertise in turning complex data into actionable business ins
 ## 📫 Get in Touch
 - **LinkedIn:** [Olivia Rohm](https://www.linkedin.com/in/olivia-rohm/)
 - **Email:** [olivia.rohm@gmail.com](mailto:olivia.rohm@gmail.com) 
-- **Portfolio site:** [My Portfolio](https://github.com/oliviarohm/my-portfolio](https://github.com/oliviarohm/Data_projects_TripleTen)
+- **Portfolio site:** [My Portfolio](https://github.com/oliviarohm/Data_projects_TripleTen)
 
 > Open to data analyst roles (full-time/contract). Happy to collaborate on forecasting, experimentation, and analytics projects.
