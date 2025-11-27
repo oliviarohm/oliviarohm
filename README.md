@@ -21,22 +21,23 @@ Data analyst with expertise in turning complex data into actionable business ins
 ## 🚀 Featured Projects
 - **Taxi Demand Forecasting (Time Series)** — *RMSE: 35 (target ≤ 48)*  
   One-hour-ahead forecast for airport taxi demand to improve driver staffing and reduce wait times.  
-  **Tech:** pandas, scikit-learn, statsmodels, pmdarima → [Notebook](https://github.com/oliviarohm/my-portfolio/blob/main/Taxi_Demand_Forecasting.ipynb)
+  **Tech:** pandas, scikit-learn, statsmodels, pmdarima → [Notebook](https://github.com/oliviarohm/Data_projects_TripleTen/tree/main/taxi-demand-forecasting)
 
 - **Customer Churn Prediction (Classification)**  
   Predicts which customers are at risk of leaving; supports proactive retention strategy.  
-  **Tech:** scikit-learn, feature engineering, ROC-AUC → [Notebook](https://github.com/oliviarohm/my-portfolio/blob/main/Customer_Churn_Prediction_Model.ipynb))
+  **Tech:** scikit-learn, feature engineering, ROC-AUC → [Notebook](https://github.com/oliviarohm/Data_projects_TripleTen/tree/main/customer-churn-prediction)
 
 - **Used Car Price Prediction (Regression)**  
   Pricing model to estimate fair market value and reduce time-to-sale.  
-  **Tech:** scikit-learn, preprocessing pipelines → [Notebook](https://github.com/oliviarohm/my-portfolio/blob/main/used_car_price_prediction_model.ipynb)
+  **Tech:** scikit-learn, preprocessing pipelines → [Notebook](https://github.com/oliviarohm/Data_projects_TripleTen/tree/main/used-car-pricing)
 
 - **Gold Recovery — ML Optimization (Regression)**  
   Improves process yield by modeling recovery rates across stages.  
-  **Tech:** scikit-learn, metrics analysis → [Notebook](https://github.com/oliviarohm/my-portfolio/blob/main/Predicting_Gold_Recovery_with_Machine_Learning.ipynb)
+  **Tech:** scikit-learn, metrics analysis → [Notebook](https://github.com/oliviarohm/Data_projects_TripleTen/tree/main/Gold%20Recovery%20%E2%80%93%20ML%20Optimization)
+  
 - **Video Game Sales Analysis (EDA + Forecasting basics)**  
   Uncovers drivers of sales performance to inform catalog strategy.  
-  **Tech:** pandas, visualization → [Notebook](https://colab.research.google.com/drive/1ET2i2fu-LDnKLzDayNoCTZyJ_C0OXaJR?usp=sharing)
+  **Tech:** pandas, visualization → [Notebook](https://github.com/oliviarohm/Data_projects_TripleTen/tree/main/Video%20Game%20Sales%20Analysis%20(EDA))
 
 ---
 
