@@ -5,7 +5,7 @@
 **Bio**  
 Data analyst with expertise in turning complex data into actionable business insights and operational improvements. Built predictive models that enhanced resource planning efficiency, directly improving customer experience and reducing operational costs. Passionate about using Python, data visualization, and analytical problem-solving to drive smart business decisions.
 
-[Resume (PDF)](http://github.com/oliviarohm/my-portfolio/blob/main/Olivia%20Rohm_Resume_2025.pdf)
+[Resume (PDF)](https://github.com/oliviarohm/my-portfolio/blob/main/Olivia_Rohm_Resume_2025.pdf)
 
 ---
 
